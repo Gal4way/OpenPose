@@ -137,3 +137,8 @@ html/
 
 ######################### Validation Scripts & Testing #########################
 output*/
+
+examples/
+models/
+
+/python
